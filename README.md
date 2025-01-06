@@ -6,7 +6,7 @@ This project dives into the musical preferences and behaviors of users in Spring
 
 The analysis was conducted using Python for data preprocessing and hypothesis testing. The findings were summarized in a step-by-step process, providing insights into user behavior across the two cities.
 
-🛠 Step-by-Step Implementation
+## 🛠 Step-by-Step Implementation
 1. Data Description
 The dataset contained 65,079 entries and included the following columns:
 
