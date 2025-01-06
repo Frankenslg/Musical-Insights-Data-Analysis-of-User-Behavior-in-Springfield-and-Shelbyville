@@ -8,7 +8,7 @@ The analysis was conducted using Python for data preprocessing and hypothesis te
 
 ## 🛠 Step-by-Step Implementation
 1. Data Description
-2. 
+
 The dataset contained 65,079 entries and included the following columns:
 
 user_id: Unique identifier for the user.
